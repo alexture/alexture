@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/a9f0cab9eee6d7ad36a672e16ee9f2182e1c705b\"><strong>a</strong>9f0cab9eee6d7ad36a672e16ee9f2182e1c705b</a>",
+    "body": "- <a href=\"https://github.com/alexture/lfm-discord/commit/a48f6972a14c66fc7d8f00c89d4f0e62f525d720\"><strong>a</strong>48f6972a14c66fc7d8f00c89d4f0e62f525d720</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -26,20 +26,6 @@
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/issues/145\">#145</a>: Follow button",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/iv-org/invidious/issues/1179\">#1179</a>: No way to remove a video from a playlist in thin mode",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   },
   {
     "id": "the-ultimate-question",
@@ -82,5 +68,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e08e8ab190acc4e210dfc0cf25c8cf050ae2777d\">e08e8ab</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/e08e8ab190acc4e210dfc0cf25c8cf050ae2777d\">e08e8ab</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/alexture/alexture\">alexture/alexture</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
