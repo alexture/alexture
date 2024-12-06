@@ -75,5 +75,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/alexture/alexture\">alexture/alexture</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/b45f2b19b13a199c81b1e6f0454e0dbb9e6f492e\">b45f2b1</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   }
 ]
