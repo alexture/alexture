@@ -37,8 +37,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 50 times)\n2. update (used 37 times)\n3. added (used 33 times)\n4. merge (used 20 times)\n5. readme.md (used 19 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 37 times)\n2. added (used 33 times)\n3. page (used 26 times)\n4. cli (used 22 times)\n5. merge (used 21 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/b45f2b19b13a199c81b1e6f0454e0dbb9e6f492e\">b45f2b1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   }
 ]
