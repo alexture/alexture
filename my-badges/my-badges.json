@@ -37,8 +37,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 39 times)\n2. cli (used 38 times)\n3. merge (used 35 times)\n4. added (used 33 times)\n5. page (used 32 times)",
+    "desc": "My favorite word is \"merge\".",
+    "body": "My favorite commit message words are:\n\n1. merge (used 70 times)\n2. branch (used 57 times)\n3. update (used 53 times)\n4. add (used 49 times)\n5. cli (used 42 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,14 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/d3d8eaf996449c30892fa8873e7cad87405cda29\">d3d8eaf</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
