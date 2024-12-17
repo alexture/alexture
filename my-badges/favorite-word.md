@@ -7,7 +7,7 @@ My favorite commit message words are:
 1. merge (used 70 times)
 2. branch (used 57 times)
 3. update (used 53 times)
-4. add (used 49 times)
+4. add (used 50 times)
 5. cli (used 42 times)
 
 
