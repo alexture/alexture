@@ -5,6 +5,7 @@
 Commits:
 
 - <a href="https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f">c286a7e</a>
+- <a href="https://github.com/Hyle-org/devhub-hyle/commit/0bfcd9da6329a08bde8f5df25f9eeaeaea2a024e">0bfcd9d</a>
 - <a href="https://github.com/Hyle-org/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f">c286a7e</a>
 
 

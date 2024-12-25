@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 70 times)\n2. branch (used 57 times)\n3. update (used 53 times)\n4. add (used 52 times)\n5. cli (used 43 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 70 times)\n2. add (used 61 times)\n3. branch (used 57 times)\n4. update (used 56 times)\n5. page (used 55 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/0bfcd9da6329a08bde8f5df25f9eeaeaea2a024e\">0bfcd9d</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
