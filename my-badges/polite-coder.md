@@ -8,7 +8,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/Hyle-org/hackathons/issues/2">#2</a>: Build an identity contract for Hylé with OpenID Connect
 - <a href="https://github.com/Hyle-org/hackathons/issues/3">#3</a>: Build an identity contract for Hylé with Metamask
 - <a href="https://github.com/Hyle-org/hackathons/issues/4">#4</a>: Build an identity contract for Hylé based on ECDSA
-- <a href="https://github.com/Hyle-org/hackathons/issues/5">#5</a>: Rewrite AMM front-end
+- <a href="https://github.com/Hyle-org/hackathons/issues/6">#6</a>: Build an identity contract for Hylé with Farcaster
 
  And many more...
 
