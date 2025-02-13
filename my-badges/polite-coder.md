@@ -5,10 +5,10 @@
 I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/Hyle-org/hackathons/issues/1">#1</a>: Build an identity contract for Hylé with WebAuthn
-- <a href="https://github.com/Hyle-org/hackathons/issues/2">#2</a>: Build an identity contract for Hylé with OpenID Connect
 - <a href="https://github.com/Hyle-org/hackathons/issues/4">#4</a>: Build an identity contract for Hylé based on ECDSA
 - <a href="https://github.com/Hyle-org/hackathons/issues/6">#6</a>: Build an identity contract for Hylé with Farcaster
 - <a href="https://github.com/Hyle-org/hackathons/issues/7">#7</a>: Create a faucet app
+- <a href="https://github.com/Hyle-org/hackathons/issues/8">#8</a>: Recreate simple-identity with SP1 instead of Risc0
 
  And many more...
 
