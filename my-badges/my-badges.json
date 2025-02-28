@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 79 times)\n2. add (used 75 times)\n3. update (used 65 times)\n4. branch (used 64 times)\n5. page (used 62 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 81 times)\n2. add (used 75 times)\n3. update (used 69 times)\n4. branch (used 66 times)\n5. page (used 66 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/d3d8eaf996449c30892fa8873e7cad87405cda29\">d3d8eaf</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f9c9ceab5beb3a3ce250053759900e50fe54eeeb\">f9c9cea</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/3b8d8ee6a99dd52afcc781ce95f4e6b5c6e09cc6\">3b8d8ee</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e23d1dcfde93270d29a01fc12af2b655fc89f676\">e23d1dc</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/b6b30f3081d04196385104aa61640df6eec38758\">b6b30f3</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f6d72d6c39a97439b61e5423328df56be0086b1e\">f6d72d6</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/f6d72d6c39a97439b61e5423328df56be0086b1e\">f6d72d6</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/92b4e97b88423c5e399beecd9d0bb5079115f1aa\">92b4e97</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/92b4e97b88423c5e399beecd9d0bb5079115f1aa\">92b4e97</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/4826fdbdb350ae294b18e8c979996eb5ecd817e0\">4826fdb</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/4826fdbdb350ae294b18e8c979996eb5ecd817e0\">4826fdb</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/0f80eecafe5d2a1e0beccdf86d9fcf85ddf42975\">0f80ee<strong>cafe</strong>5d2a1e0beccdf86d9fcf85ddf42975</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   }
 ]
