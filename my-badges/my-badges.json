@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 81 times)\n2. add (used 75 times)\n3. update (used 69 times)\n4. branch (used 66 times)\n5. page (used 66 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 81 times)\n2. add (used 76 times)\n3. update (used 69 times)\n4. branch (used 66 times)\n5. page (used 66 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -110,5 +110,12 @@
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/0f80eecafe5d2a1e0beccdf86d9fcf85ddf42975\">0f80ee<strong>cafe</strong>5d2a1e0beccdf86d9fcf85ddf42975</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Hyle-org/devhub-hyle/commit/9e1447408998e6ce47935a308767004699b1fd11\">9e14474</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   }
 ]
