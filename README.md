@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Alex. I live in France and I'm a marketing and localization specialist.
+I'm Alex, from France.
 
 You can see more about me at my blog, https://alexsirac.com.
 
-I'm not « a tech person », but I enjoy writing documentation, contributing to open source projects in non-codey ways, and am currently doing a beginner's course in computer science. (It's going great!)
+I enjoy writing documentation and contributing to open-source projects in non-codey ways, and I am taking a beginner's course in computer science.
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
@@ -26,3 +26,4 @@ I'm not « a tech person », but I enjoy writing documentation, contributing to 
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <!-- my-badges end -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexture)](https://github.com/ryo-ma/github-profile-trophy)
