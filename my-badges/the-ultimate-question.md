@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/kernox/Mastodon-Share-for-WordPress/issues/42">#42</a>
 - <a href="https://github.com/mbiesiad/awesome-translations/issues/42">#42</a>
-- <a href="https://github.com/Hyle-org/devhub-hyle/issues/42">#42</a>
+- <a href="https://github.com/hyli-org/devhub-hyli/issues/42">#42</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
