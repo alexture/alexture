@@ -37,15 +37,15 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 84 times)\n2. add (used 82 times)\n3. update (used 70 times)\n4. branch (used 69 times)\n5. page (used 66 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 85 times)\n2. merge (used 84 times)\n3. update (used 70 times)\n4. branch (used 69 times)\n5. page (used 69 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Sav22999/common-voice-android/issues/46\">#46</a>: [TRANSLATION] French\n- <a href=\"https://github.com/Emrie-Candera/Bubble-Space-Theme/issues/20\">#20</a>: Internal links in headers are invisible\n- <a href=\"https://github.com/ylefebvre/link-library/issues/22\">#22</a>: RSS Library Shortcode doesn't seem to work?\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/issues/394\">#394</a>: Lemmy compatibility\n- <a href=\"https://github.com/fabrice404/olympics-calendar/issues/3\">#3</a>: Full calendar (all sports, all countries)\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/cv-project-app/common-voice-app/issues/46\">#46</a>: [TRANSLATION] French\n- <a href=\"https://github.com/Emrie-Candera/Bubble-Space-Theme/issues/20\">#20</a>: Internal links in headers are invisible\n- <a href=\"https://github.com/ylefebvre/link-library/issues/22\">#22</a>: RSS Library Shortcode doesn't seem to work?\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/issues/394\">#394</a>: Lemmy compatibility\n- <a href=\"https://github.com/fabrice404/olympics-calendar/issues/3\">#3</a>: Full calendar (all sports, all countries)\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
