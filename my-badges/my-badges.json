@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 97 times)\n2. update (used 92 times)\n3. merge (used 87 times)\n4. page (used 78 times)\n5. branch (used 72 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 97 times)\n2. update (used 92 times)\n3. merge (used 88 times)\n4. page (used 78 times)\n5. branch (used 72 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e08e8ab190acc4e210dfc0cf25c8cf050ae2777d\">e08e8ab</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/e08e8ab190acc4e210dfc0cf25c8cf050ae2777d\">e08e8ab</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/e219ba5ef9a507f55dd1e1d1ba27a42452b140f4\">e219ba5</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/ccab7cc54614d0bcb1eee1741c31a62e525ed767\">ccab7cc</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/9d216ead0f4041c58063c94140dfa747a2e39b3e\">9d216ea</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/a2a4d93c1369f632f0b2c8fc29645623e2daf10b\">a2a4d93</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/88100aead46c5759df3e3ea7907d061d6286d68d\">88100ae</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/f713ec3c2478c929d7bb76d30c42944ebb8e126e\">f713ec3</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/5a8b72202019192efe6d3a1072a9992878c47ffa\">5a8b722</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/f713ec3c2478c929d7bb76d30c42944ebb8e126e\">f713ec3</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
