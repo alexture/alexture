@@ -8,6 +8,7 @@ Repos:
 * <a href="https://github.com/hyli-org/devhub-hyli">hyli-org/devhub-hyli: ★5</a>
 * <a href="https://github.com/hyli-org/examples">hyli-org/examples: ★5</a>
 * <a href="https://github.com/hyli-org/app-scaffold">hyli-org/app-scaffold: ★3</a>
+* <a href="https://github.com/hyli-org/hyliquid">hyli-org/hyliquid: ★3</a>
 * <a href="https://github.com/deMenschRutger/SmashArchive">deMenschRutger/SmashArchive: ★2</a>
 * <a href="https://github.com/alexture/awesome-translations">alexture/awesome-translations: ★2</a>
 * <a href="https://github.com/alexture/alexture">alexture/alexture: ★1</a>

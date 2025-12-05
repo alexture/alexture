@@ -80,7 +80,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/5d1f5163b486ad0f14fe8a0f5f799e890c91d391\">5d1f516</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/d3d8eaf996449c30892fa8873e7cad87405cda29\">d3d8eaf</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/hyliquid/commit/7beb277abf6024922367f39561f8b47719586ef6\">7beb277</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/5d1f5163b486ad0f14fe8a0f5f799e890c91d391\">5d1f516</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/d3d8eaf996449c30892fa8873e7cad87405cda29\">d3d8eaf</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/hyli-org/hyli\">hyli-org/hyli: ★112</a>\n* <a href=\"https://github.com/hyli-org/devhub-hyli\">hyli-org/devhub-hyli: ★5</a>\n* <a href=\"https://github.com/hyli-org/examples\">hyli-org/examples: ★5</a>\n* <a href=\"https://github.com/hyli-org/app-scaffold\">hyli-org/app-scaffold: ★3</a>\n* <a href=\"https://github.com/deMenschRutger/SmashArchive\">deMenschRutger/SmashArchive: ★2</a>\n* <a href=\"https://github.com/alexture/awesome-translations\">alexture/awesome-translations: ★2</a>\n* <a href=\"https://github.com/alexture/alexture\">alexture/alexture: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/hyli-org/hyli\">hyli-org/hyli: ★112</a>\n* <a href=\"https://github.com/hyli-org/devhub-hyli\">hyli-org/devhub-hyli: ★5</a>\n* <a href=\"https://github.com/hyli-org/examples\">hyli-org/examples: ★5</a>\n* <a href=\"https://github.com/hyli-org/app-scaffold\">hyli-org/app-scaffold: ★3</a>\n* <a href=\"https://github.com/hyli-org/hyliquid\">hyli-org/hyliquid: ★3</a>\n* <a href=\"https://github.com/deMenschRutger/SmashArchive\">deMenschRutger/SmashArchive: ★2</a>\n* <a href=\"https://github.com/alexture/awesome-translations\">alexture/awesome-translations: ★2</a>\n* <a href=\"https://github.com/alexture/alexture\">alexture/alexture: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   }
 ]
