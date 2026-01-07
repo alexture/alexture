@@ -124,5 +124,12 @@
     "desc": "I collected 100 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/hyli-org/hyli\">hyli-org/hyli: ★114</a>\n* <a href=\"https://github.com/hyli-org/hyliquid\">hyli-org/hyliquid: ★8</a>\n* <a href=\"https://github.com/hyli-org/devhub-hyli\">hyli-org/devhub-hyli: ★5</a>\n* <a href=\"https://github.com/hyli-org/examples\">hyli-org/examples: ★5</a>\n* <a href=\"https://github.com/hyli-org/app-scaffold\">hyli-org/app-scaffold: ★3</a>\n* <a href=\"https://github.com/deMenschRutger/SmashArchive\">deMenschRutger/SmashArchive: ★2</a>\n* <a href=\"https://github.com/alexture/awesome-translations\">alexture/awesome-translations: ★2</a>\n* <a href=\"https://github.com/alexture/alexture\">alexture/alexture: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/Blogroll/commit/2c81686b31e41cab3781d568482253723d3d109b\">2c81686</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/aeb45793bd998c0490baa382d46453f8718db319\">aeb4579</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/4866c6995c9eb771624d99c455e8825d8fa76b6a\">4866c69</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/ee76d17d5171b75d13a630df18233f6a04757e02\">ee76d17</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/b97ea21cacc55c3b2dcc6d22e2a97fd557463e59\">b97ea21</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/0728d39c1d4b2062820c17fa162958207b4df755\">0728d39</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
