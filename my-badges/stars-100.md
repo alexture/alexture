@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hyli-org/hyli">hyli-org/hyli: ★115</a>
+* <a href="https://github.com/hyli-org/hyli">hyli-org/hyli: ★116</a>
 * <a href="https://github.com/hyli-org/hyliquid">hyli-org/hyliquid: ★8</a>
 * <a href="https://github.com/hyli-org/devhub-hyli">hyli-org/devhub-hyli: ★5</a>
 * <a href="https://github.com/hyli-org/examples">hyli-org/examples: ★5</a>
