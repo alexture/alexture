@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 97 times)\n2. update (used 92 times)\n3. merge (used 88 times)\n4. page (used 78 times)\n5. branch (used 72 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 97 times)\n2. update (used 93 times)\n3. merge (used 88 times)\n4. page (used 78 times)\n5. branch (used 72 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/f713ec3c2478c929d7bb76d30c42944ebb8e126e\">f713ec3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/26d223acc8d7b05ee308096a4a0cff5d4f536b1b\">26d223a</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
