@@ -131,5 +131,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/alexture/Blogroll/commit/2c81686b31e41cab3781d568482253723d3d109b\">2c81686</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/aeb45793bd998c0490baa382d46453f8718db319\">aeb4579</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/4866c6995c9eb771624d99c455e8825d8fa76b6a\">4866c69</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/ee76d17d5171b75d13a630df18233f6a04757e02\">ee76d17</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/b97ea21cacc55c3b2dcc6d22e2a97fd557463e59\">b97ea21</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/0728d39c1d4b2062820c17fa162958207b4df755\">0728d39</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
