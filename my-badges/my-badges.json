@@ -37,8 +37,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 97 times)\n2. update (used 93 times)\n3. merge (used 88 times)\n4. page (used 78 times)\n5. branch (used 72 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 43 times)\n2. merge (used 36 times)\n3. branch (used 30 times)\n4. add (used 27 times)\n5. added (used 25 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/Flags/commit/f91d9dc3fa3d6880a84309e75340f6625a7cc339\">f91d9dc</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/db3a8a92b6f505dd9643362aa1696e501632b4c0\">db3a8a9</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/db3a8a92b6f505dd9643362aa1696e501632b4c0\">db3a8a9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/Flags/commit/f91d9dc3fa3d6880a84309e75340f6625a7cc339\">f91d9dc</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/db3a8a92b6f505dd9643362aa1696e501632b4c0\">db3a8a9</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/e219ba5ef9a507f55dd1e1d1ba27a42452b140f4\">e219ba5</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/ccab7cc54614d0bcb1eee1741c31a62e525ed767\">ccab7cc</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/9d216ead0f4041c58063c94140dfa747a2e39b3e\">9d216ea</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/a2a4d93c1369f632f0b2c8fc29645623e2daf10b\">a2a4d93</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/88100aead46c5759df3e3ea7907d061d6286d68d\">88100ae</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/f713ec3c2478c929d7bb76d30c42944ebb8e126e\">f713ec3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e08e8ab190acc4e210dfc0cf25c8cf050ae2777d\">e08e8ab</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
@@ -80,50 +80,22 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/hyliquid/commit/7beb277abf6024922367f39561f8b47719586ef6\">7beb277</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/5d1f5163b486ad0f14fe8a0f5f799e890c91d391\">5d1f516</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/d3d8eaf996449c30892fa8873e7cad87405cda29\">d3d8eaf</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/0bfcd9da6329a08bde8f5df25f9eeaeaea2a024e\">0bfcd9d</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/f2ef1195b99b3ae633a1e63849ce4d2f8b029cc5\">f2ef119</a>: fix title\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/4d7652d332189d85b03ea322c98999f8149c40be\">4d7652d</a>: fix nav",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/d3d8eaf996449c30892fa8873e7cad87405cda29\">d3d8eaf</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f9c9ceab5beb3a3ce250053759900e50fe54eeeb\">f9c9cea</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/3b8d8ee6a99dd52afcc781ce95f4e6b5c6e09cc6\">3b8d8ee</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e23d1dcfde93270d29a01fc12af2b655fc89f676\">e23d1dc</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/b6b30f3081d04196385104aa61640df6eec38758\">b6b30f3</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f6d72d6c39a97439b61e5423328df56be0086b1e\">f6d72d6</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/f6d72d6c39a97439b61e5423328df56be0086b1e\">f6d72d6</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/92b4e97b88423c5e399beecd9d0bb5079115f1aa\">92b4e97</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/92b4e97b88423c5e399beecd9d0bb5079115f1aa\">92b4e97</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/4826fdbdb350ae294b18e8c979996eb5ecd817e0\">4826fdb</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/4826fdbdb350ae294b18e8c979996eb5ecd817e0\">4826fdb</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f9c9ceab5beb3a3ce250053759900e50fe54eeeb\">f9c9cea</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/3b8d8ee6a99dd52afcc781ce95f4e6b5c6e09cc6\">3b8d8ee</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e23d1dcfde93270d29a01fc12af2b655fc89f676\">e23d1dc</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/b6b30f3081d04196385104aa61640df6eec38758\">b6b30f3</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f6d72d6c39a97439b61e5423328df56be0086b1e\">f6d72d6</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/92b4e97b88423c5e399beecd9d0bb5079115f1aa\">92b4e97</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/4826fdbdb350ae294b18e8c979996eb5ecd817e0\">4826fdb</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/alexture/lfm-discord/commit/e0e3c57178071332fa9e6ccb395eb6fcfced1573\">e0e3c57</a>\n- <a href=\"https://github.com/alexture/lfm-discord/commit/30487a7b3c6841151ea2d4727a96a025178ef5c8\">30487a7</a>\n- <a href=\"https://github.com/alexture/lfm-discord/commit/f3afbe1dbf6d78c8816a9428e0e5ed9afcb974dc\">f3afbe1</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/0f80eecafe5d2a1e0beccdf86d9fcf85ddf42975\">0f80ee<strong>cafe</strong>5d2a1e0beccdf86d9fcf85ddf42975</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hyli-org/devhub-hyli/commit/26d223acc8d7b05ee308096a4a0cff5d4f536b1b\">26d223a</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/hyli-org/hyli\">hyli-org/hyli: ★119</a>\n* <a href=\"https://github.com/hyli-org/hyliquid\">hyli-org/hyliquid: ★8</a>\n* <a href=\"https://github.com/hyli-org/examples\">hyli-org/examples: ★7</a>\n* <a href=\"https://github.com/hyli-org/devhub-hyli\">hyli-org/devhub-hyli: ★5</a>\n* <a href=\"https://github.com/hyli-org/app-scaffold\">hyli-org/app-scaffold: ★3</a>\n* <a href=\"https://github.com/deMenschRutger/SmashArchive\">deMenschRutger/SmashArchive: ★2</a>\n* <a href=\"https://github.com/alexture/awesome-translations\">alexture/awesome-translations: ★2</a>\n* <a href=\"https://github.com/alexture/alexture\">alexture/alexture: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "st-patricks-day",
