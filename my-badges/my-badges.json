@@ -1,24 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/alexture/lfm-discord/commit/a48f6972a14c66fc7d8f00c89d4f0e62f525d720\"><strong>a</strong>48f6972a14c66fc7d8f00c89d4f0e62f525d720</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "fix-4",
-    "tier": 3,
-    "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/cc9bc32fb2b022aaedd80303c826cbd606b565ce\">cc9bc32</a>: Fixed 404\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/d4e07a13cc7f795eeca38ecaee0f761d0d5dbc3d\">d4e07a1</a>: Fix checkboxes\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e55e4a4086c4e78f7b21305eab26644472c65ffb\">e55e4a4</a>: Fix checkboxes\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/17b36ebe84c7ef6656983817c8408ed1c0aae703\">17b36eb</a>: Fix checkboxes",
-    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "covid-19",
@@ -35,13 +21,6 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 43 times)\n2. merge (used 36 times)\n3. branch (used 30 times)\n4. add (used 27 times)\n5. added (used 25 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
@@ -49,60 +28,11 @@
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/Flags/commit/f91d9dc3fa3d6880a84309e75340f6625a7cc339\">f91d9dc</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/db3a8a92b6f505dd9643362aa1696e501632b4c0\">db3a8a9</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e08e8ab190acc4e210dfc0cf25c8cf050ae2777d\">e08e8ab</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/alexture/alexture\">alexture/alexture</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/a3007208fc75b46fff9f527a07279cec2c09c6bb\">a300720</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e4c105fd07e5c7b0e3480311163176342fef785f\">e4c105f</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f9c9ceab5beb3a3ce250053759900e50fe54eeeb\">f9c9cea</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/3b8d8ee6a99dd52afcc781ce95f4e6b5c6e09cc6\">3b8d8ee</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/e23d1dcfde93270d29a01fc12af2b655fc89f676\">e23d1dc</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/b6b30f3081d04196385104aa61640df6eec38758\">b6b30f3</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/f6d72d6c39a97439b61e5423328df56be0086b1e\">f6d72d6</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/92b4e97b88423c5e399beecd9d0bb5079115f1aa\">92b4e97</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/4826fdbdb350ae294b18e8c979996eb5ecd817e0\">4826fdb</a>\n- <a href=\"https://github.com/alexture/devhub-hyle/commit/c286a7e272bffde8ceb54c0070ee7d7b7b08860f\">c286a7e</a>\n- <a href=\"https://github.com/alexture/lfm-discord/commit/e0e3c57178071332fa9e6ccb395eb6fcfced1573\">e0e3c57</a>\n- <a href=\"https://github.com/alexture/lfm-discord/commit/30487a7b3c6841151ea2d4727a96a025178ef5c8\">30487a7</a>\n- <a href=\"https://github.com/alexture/lfm-discord/commit/f3afbe1dbf6d78c8816a9428e0e5ed9afcb974dc\">f3afbe1</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexture/Blogroll/commit/2c81686b31e41cab3781d568482253723d3d109b\">2c81686</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/aeb45793bd998c0490baa382d46453f8718db319\">aeb4579</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/4866c6995c9eb771624d99c455e8825d8fa76b6a\">4866c69</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/ee76d17d5171b75d13a630df18233f6a04757e02\">ee76d17</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/b97ea21cacc55c3b2dcc6d22e2a97fd557463e59\">b97ea21</a>\n- <a href=\"https://github.com/alexture/Blogroll/commit/0728d39c1d4b2062820c17fa162958207b4df755\">0728d39</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
     "id": "public-keys-1",
