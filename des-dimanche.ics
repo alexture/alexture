@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Des dimanche//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dés dimanche
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:des-dimanche-2026-10-04@mjc-parmentier
+DTSTAMP:20260930T120000Z
+DTSTART;TZID=Europe/Paris:20261004T140000
+DTEND;TZID=Europe/Paris:20261004T190000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=SU;UNTIL=20270628T000000Z
+SUMMARY:Dés dimanche
+LOCATION:MJC Parmentier\, 3 rue Parmentier\, 38000 Grenoble
+DESCRIPTION:Reprise des Dés dimanche toutes les deux semaines ! Après not
+ re grande reprise le 20 septembre où vous fûtes si nombreux\, nous nous 
+ retrouvons un dimanche sur deux.\n\nDeux tables sont déjà proposées\, e
+ t vous pouvez encore poster des annonces sur le Discord.\n\nLieu : MJC Par
+ mentier\, 3 rue Parmentier\, 38000 Grenoble.\nAccès : tram A & B arrêt S
+ aint-Bruno\, tram C arrêt Docteur Calmette\, bus C8 arrêt D'Alembert.\n\
+ nAccessibilité : si vous êtes en situation de handicap ou avez besoin d'
+ aménagements spécifiques\, contactez-nous en amont afin que nous puissio
+ ns voir ensemble comment adapter au mieux votre venue.\n\nUn pique-nique c
+ ollectif dans la MJC pourra être organisé avant : on vous tient au coura
+ nt !
+END:VEVENT
+END:VCALENDAR
